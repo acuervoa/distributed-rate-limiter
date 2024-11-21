@@ -25,7 +25,7 @@ Para ejecutar este proyecto, necesitarás lo siguiente:
 
 1. **Clonar el Repositorio**
    ```sh
-   git clone https://github.com/yourusername/rate-limited-api.git
+   git clone https://github.com/acuervoa/rate-limited-api.git
    cd rate-limited-api
    ```
 
