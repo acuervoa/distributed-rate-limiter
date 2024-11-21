@@ -4,6 +4,8 @@
 
 Este proyecto es una API sencilla basada en Express.js con funcionalidad de límite de tasa utilizando Redis y scripting en Lua. La API proporciona una característica básica de limitación de tasa para asegurar que los usuarios estén restringidos en el número de solicitudes que pueden realizar durante un período definido. El mecanismo de limitación de tasa se implementa con la ayuda de Redis para un conteo y almacenamiento eficiente de solicitudes, ideal para escenarios de alto rendimiento.
 
+Basado en el artículo https://www.freecodecamp.org/news/build-rate-limiting-system-using-redis-and-lua/ con modificaciones propias.
+
 ## Características
 
 - Limitación de tasa utilizando Redis para alta eficiencia.
